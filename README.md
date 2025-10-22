@@ -7,16 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=onedark&row=1&column=7" alt="trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <img src="https://media.tenor.com/LSDeBeQWq2sAAAAi/wing-gold.gif" width="120px"/>
