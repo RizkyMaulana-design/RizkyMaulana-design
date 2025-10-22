@@ -40,7 +40,7 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
+
 
 
 ## 🌐 Socials:
