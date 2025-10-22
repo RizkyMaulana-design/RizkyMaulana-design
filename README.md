@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF416C,100:FF4B2B&height=220&text=Rizky%20Maulana%20🔥&fontColor=fff&animation=blink&fontSize=50&desc=Turning%20Passion%20into%20Code&descAlignY=70&descAlign=50" />
