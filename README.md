@@ -31,13 +31,6 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <div align="center">
 
 💡 **Motto:**  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00FF41,50:00FFF6,100:FF00FF&text=Rizky%20Maulana%20%7C%20Hacking%20the%20Future%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=28" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00FFF6&center=true&vCenter=true&width=700&lines=•+Code+with+passion,+create+with+purpose.;•+Learn+endlessly,+build+fearlessly.;•+Keep+learning,+keep+building,+keep+growing.;•+From+bugs+to+breakthroughs+—+that's+the+journey." />
-</p>
 
 ---
 <p align="center">
