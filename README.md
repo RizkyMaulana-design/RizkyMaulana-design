@@ -2,6 +2,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
+<h1 align="center">✨ JayantGoel001 ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Lover+🔥" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=onedark&row=1&column=7" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/LSDeBeQWq2sAAAAi/wing-gold.gif" width="120px"/>
+  <img src="https://media.tenor.com/LSDeBeQWq2sAAAAi/wing-gold.gif" width="120px" style="transform:scaleX(-1);"/>
+</p>
+
+<p align="center">
+  <b>🔥 Current Streak: 2,252 | Total Contributions: 98,350 🔥</b>
+</p>
+
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
