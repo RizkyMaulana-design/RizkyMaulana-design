@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Selamat+Datang!;Saya+adalah+Pengembang+Web;Spesialis+JavaScript+%26+Python;Mari+Bangun+Sesuatu+Yang+Hebat!">
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
