@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=onedark&row=1&column=7" alt="trophies" />
-</p>
-
-
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
@@ -50,6 +44,11 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 > "Designing dreams, coding realities."  
 > "Where imagination meets innovation."  
 > "Digital art through lines of logic."
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=onedark&row=1&column=7" alt="trophies" />
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
