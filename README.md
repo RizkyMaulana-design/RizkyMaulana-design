@@ -88,6 +88,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Music Animation"><br>
   <em>🎶 Vibing to some code beats...</em>
 </p>
@@ -132,8 +135,11 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-## 💰 Support Me
 
+## 💰 Support Me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 <p align="center">
   <a href="https://link.dana.id/minta?full_url=https://qr.dana.id/v1/281012012025041439960305" target="_blank">
     <img src="https://img.shields.io/badge/DANA-%2300C4FF.svg?style=for-the-badge&logo=dana&logoColor=white&labelColor=001F3F&color=00E0FF" alt="DANA" />
