@@ -119,7 +119,6 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=onedark&row=1&column=7" alt="trophies" />
 </p>
----
 
 ## 💰 Support Me
 
