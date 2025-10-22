@@ -1,13 +1,17 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00FF41,50:00FFF6,100:FF00FF&text=Rizky%20Maulana%20%7C%20Hacking%20the%20Future%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=28" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00FF41,50:00FFF6,100:FF00FF&text=Rizky%20Maulana%20%7C%20Hacking%20the%20Future%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=28" />
 </p>
 
 <p align="center">Web & Software Developer | UI/UX Designer | Tech Explorer from Indonesia 🇮🇩</p>
