@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
+## 🎶 Music = Energy
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nwkfutuhzsii723mw73l6mvmdq&count=3&width=500&unique=true&theme=dark" alt="Spotify Recently Played" />
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
