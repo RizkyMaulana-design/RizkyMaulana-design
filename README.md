@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Initializing+Rizky+Maulana...;Full+Stack+Developer+%7C+UI%2FUX+Designer;Code.+Learn.+Build.+Inspire.;Turning+Ideas+into+Reality+🚀" alt="Typing Animation" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Rizky%20Maulana%20🔥&fontAlignY=35&fontColor=fff&animation=fadeIn&fontSize=50" />
