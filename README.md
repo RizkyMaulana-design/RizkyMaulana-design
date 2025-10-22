@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF416C,100:FF4B2B&height=220&text=Rizky%20Maulana%20🔥&fontColor=fff&animation=blink&fontSize=50&desc=Turning%20Passion%20into%20Code&descAlignY=70&descAlign=50" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=220&text=Rizky%20Maulana%20🚀&fontColor=ffffff&animation=fadeIn&fontSize=50&desc=Innovating%20Through%20Code%20and%20Creativity&descAlignY=70&descAlign=50" />
 </p>
 
