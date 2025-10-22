@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%">
+  <img src="https://readme-animated-text.vercel.app/api?text=Rizky%20Maulana%20⚡%20Developer&animation=pulse&color=00FFFF&fontSize=40" />
 </p>
 
 <p align="center">
