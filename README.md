@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizkyMaulana-design&label=PROFILE+VIEWS&color=0e7bcc&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.gif" width="100%">
 </p>
 
