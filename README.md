@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,nodejs,tailwind" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%9A%80">
