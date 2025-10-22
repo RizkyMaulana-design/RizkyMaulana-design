@@ -63,7 +63,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rizkymaulana-t2p?si=eLJ-hwByLeQl1Cka)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rizkymaulana2702052025@gmail.com)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -80,7 +82,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -93,12 +97,16 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 ![](https://nirzak-streak-stats.vercel.app/?user=RizkyMaulana-design&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMaulana-design&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=tokyo-night&hide_border=true)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🎧 Spotify — Now Playing
 <p align="center">
@@ -107,7 +115,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
   <em>🎧 Lost in code and rhythm — where music fuels creativity 🎶</em>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🏅 Badges & Achievements
 <p align="center">
@@ -119,7 +129,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JayantGoel001&theme=onedark&row=1&column=7" alt="trophies" />
 </p>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 ## 💰 Support Me
 
 <p align="center">
