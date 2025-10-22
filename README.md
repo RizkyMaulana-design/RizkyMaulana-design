@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
+<p align="center">
+  <img src="URL_GARIS_PELANGI_ATAS" alt="Garis Pelangi Atas" width="800">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%9A%80">
+</p>
+<p align="center">
+  <img src="URL_GARIS_PELANGI_BAWAH" alt="Garis Pelangi Bawah" width="800">
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
@@ -27,9 +36,7 @@
 
 
 ## ☕ About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=────────────────────────────;Thanks+for+stopping+by!+🚀;────────────────────────────" alt="Thanks Animation" />
-</p>
+
 Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
