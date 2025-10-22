@@ -9,15 +9,6 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/LSDeBeQWq2sAAAAi/wing-gold.gif" width="120px"/>
-  <img src="https://media.tenor.com/LSDeBeQWq2sAAAAi/wing-gold.gif" width="120px" style="transform:scaleX(-1);"/>
-</p>
-
-<p align="center">
-  <b>🔥 Current Streak: 2,252 | Total Contributions: 98,350 🔥</b>
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
