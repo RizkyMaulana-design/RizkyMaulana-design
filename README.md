@@ -89,7 +89,8 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 
 ## 🎧 Spotify — Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31u4rgy42xjuzgq2gqnyb74pm4hq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Music Animation"><br>
+  <em>🎶 Vibing to some code beats...</em>
 </p>
 
 ---
