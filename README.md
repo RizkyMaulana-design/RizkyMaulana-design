@@ -11,10 +11,6 @@
 <p align="center">Web & Software Developer | UI/UX Designer | Tech Explorer from Indonesia 🇮🇩</p>
 <p align="center">💡 <i>"Code. Learn. Build. Inspire."</i></p>
 
-<!-- 🌟 HEADER BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rizky+Maulana!+👋;Full-Stack+Developer+%7C+Tech+Explorer;Lifelong+Learner+%7C+Open-Source+Contributor" alt="Typing SVG" />
-</p>
 
 <!-- 👀 PROFILE VIEWS -->
 <p align="center">
