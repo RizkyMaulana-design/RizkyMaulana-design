@@ -6,7 +6,6 @@
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
-<h2 align="center">👋 Hello, I'm <span style="color:#00bfff;">Rizky Maulana</span> 👋</h2>
 <p align="center">Web & Software Developer | UI/UX Designer | Tech Explorer from Indonesia 🇮🇩</p>
 <p align="center">💡 <i>"Code. Learn. Build. Inspire."</i></p>
 
