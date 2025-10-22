@@ -31,9 +31,25 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <div align="center">
 
 💡 **Motto:**  
+<!-- 🌈 ANIMATED MOTO SECTION -->
 <p align="center">
-  <img src="https://readme-animated-text.vercel.app/api?text=🌈%20Code.%20Learn.%20Build.%20Inspire.&animation=fadeIn&color=8A2BE2&fontSize=36" /><br>
-  <img src="https://readme-animated-text.vercel.app/api?text=💻%20Every%20line%20of%20code%20is%20a%20step%20toward%20progress.&animation=fadeInUp&color=00FFFF&fontSize=28" />
+  <!-- Header animasi -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:00C9FF,100:92FE9D&text=🌈%20Code.%20Learn.%20Build.%20Inspire.%20💻&fontColor=ffffff&fontAlignY=35&animation=fadeIn&fontSize=40" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=🌈+Code.+Learn.+Build.+Inspire.;💻+Every+line+of+code+is+a+step+toward+progress." />
+</p>
+
+<!-- Neon glowing text -->
+<p align="center">
+  <img src="https://readme-animated-text.vercel.app/api?text=✨%20Keep%20Learning%20%7C%20Keep%20Building%20%7C%20Stay%20Inspired%20✨&animation=glow&color=00FFFF&fontSize=30" />
+</p>
+
+<!-- Divider animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-animation/main/dev-working_rounded.svg" width="400" alt="Coding animation"/>
 </p>
 
 
