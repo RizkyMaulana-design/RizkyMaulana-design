@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Rizky%20Maulana%20🔥&fontAlignY=35&fontColor=fff&animation=fadeIn&fontSize=50" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Full+Stack+Developer+%7C+Creative+Designer+%7C+Network+Enthusiast;“Building+Ideas+Into+Reality+with+Code+%26+Passion”+🚀" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.gif" width="100%">
