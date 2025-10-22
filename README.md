@@ -20,3 +20,7 @@ const RizkyMaulana = {
   fav_quote: "Dream big, build bigger.
 }
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,laravel,php,py,java,kotlin,mysql,mongodb,git,github,linux,vscode,figma,tailwind,postman,opencv" />
+</p>
+
