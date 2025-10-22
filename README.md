@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+the+Universe+of+Code...;Welcome+to+Rizky+Maulana's+World!;Let's+Build+Something+Extraordinary!" />
-</p>
 
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
@@ -20,6 +17,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+the+Universe+of+Code...;Welcome+to+Rizky+Maulana's+World!;Let's+Build+Something+Extraordinary!" />
+</p>
+
 
 ## ☕ About Me
 
