@@ -65,9 +65,6 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 ---
 
 ## 🎧 Spotify — Recently Played
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nwkfutuhzsii723mw73l6mvmdq&width=450&unique=true" alt="Spotify Recently Played" />
-</p>
 
 ---
 
