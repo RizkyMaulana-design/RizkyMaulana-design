@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=highcontrast" alt="Streak Kontribusi GitHub Anda" />
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
