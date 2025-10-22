@@ -76,6 +76,10 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Music Animation"><br>
+  <em>🎶 Vibing to some code beats...</em>
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RizkyMaulana-design&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyMaulana-design&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact)
