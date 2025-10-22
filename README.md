@@ -1,4 +1,7 @@
-
+<!-- 🌌 ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Rizky%20Maulana%20🚀&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+</p>
 
 <!-- 👀 PROFILE VIEWS -->
 <p align="center">
@@ -65,6 +68,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 ---
 
 ## 🎧 Spotify — Recently Played
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nwkfutuhzsii723mw73l6mvmdq&cover_image=true&theme=novatorem&bar_color=00C9FF&bar_color_cover=true" alt="Spotify Now Playing" width="450"/>
+</p>
 
 ---
 
@@ -86,6 +92,7 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 
 ---
 
+## 🃏 Random Dev Joke
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" alt="Random Dev Joke" />
 </p>
