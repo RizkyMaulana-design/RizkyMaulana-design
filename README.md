@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rizkymaulana&theme=react-dark" alt="Grafik Aktivitas GitHub Anda" />
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
