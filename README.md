@@ -1,7 +1,4 @@
-<!-- 🌸 HEADER IMAGE -->
-<p align="center">
-  <img src="https://i.ibb.co/ZJXdzPT/header-github-rizky.png" alt="Header" width="100%" style="border-radius: 12px; object-fit: cover;" />
-</p>
+
 
 <!-- 👀 PROFILE VIEWS -->
 <p align="center">
