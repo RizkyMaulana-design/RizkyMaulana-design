@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rizkymaulana&theme=react-dark" alt="Grafik Aktivitas GitHub Anda" />
+  <img src="https://activity-graph.herokuapp.com/graph?RizkyMaulana-design&theme=html" alt="Grafik Aktivitas GitHub Anda" />
 </p>
 
 <p align="center">
