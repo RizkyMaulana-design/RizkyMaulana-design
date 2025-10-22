@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:232323&height=220&text=Rizky%20Maulana%20💻&fontColor=00FF41&animation=fadeIn&fontSize=45&desc=%24%20Loading...%20Developer%20Mode%20Activated&descAlignY=70&descAlign=50" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:6a11cb,100:2575fc&height=220&text=Rizky%20Maulana%20🌌&fontColor=ffffff&animation=fadeIn&fontSize=48&desc=Exploring%20the%20Universe%20of%20Code&descAlignY=70&descAlign=50" />
 </p>
