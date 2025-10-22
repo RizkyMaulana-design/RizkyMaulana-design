@@ -31,7 +31,12 @@
 
 
 ## ☕ About Me
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
+I love coding, design, and creating projects that make a difference.  
+Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
+">
+</p>
 Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
