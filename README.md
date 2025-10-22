@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-animated-text.vercel.app/api?text=Rizky%20Maulana%20⚡%20Developer&animation=pulse&color=00FFFF&fontSize=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+the+Universe+of+Code...;Welcome+to+Rizky+Maulana's+World!;Let's+Build+Something+Extraordinary!" />
 </p>
 
 <p align="center">
