@@ -1,30 +1,35 @@
-<!-- 🌌 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Rizky%20Maulana%20🚀&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Rizky%20Maulana%20🔥&fontAlignY=35&fontColor=fff&animation=fadeIn&fontSize=50" />
 </p>
 
-<!-- 👀 PROFILE VIEWS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Full+Stack+Developer+%7C+Creative+Designer+%7C+Network+Enthusiast;“Building+Ideas+Into+Reality+with+Code+%26+Passion”+🚀" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RizkyMaulana-design&label=PROFILE+VIEWS&color=0e7bcc&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- 💫 INTRO -->
-<h1 align="center">🎉 Hello, I'm Rizky Maulana! 🎉</h1>
 <p align="center">
-  Passionate developer who loves exploring new technologies and building impactful projects 🚀  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.gif" width="100%">
 </p>
 
----
+<p align="center">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
+</p>
 
-## ☕ About Me
+<h2 align="center">👋 Hello, I'm <span style="color:#00bfff;">Rizky Maulana</span> 👋</h2>
+<p align="center">Web & Software Developer | UI/UX Designer | Tech Explorer from Indonesia 🇮🇩</p>
+<p align="center">💡 <i>"Code. Learn. Build. Inspire."</i></p>
 
-Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
-I love coding, design, and creating projects that make a difference.  
-Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
-
-💡 **Motto:**  
-> _"Code. Learn. Build. Inspire."_  
-> _Every line of code is a step toward progress._
+```js
+const RizkyMaulana = {
+  name: "Rizky Maulana",
+  origin: "Indonesia 🇮🇩",
+  passion: ["Full Stack Dev", "UI/UX Design", "Networking"],
+  motto: "Keep Learning. Keep Building. Keep Inspiring. 💡",
+  fav_quote: "Dream big, build bigger. 🚀"
+}
 
 ---
 
