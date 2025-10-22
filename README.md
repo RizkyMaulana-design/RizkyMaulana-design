@@ -31,12 +31,11 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 <div align="center">
 
 💡 **Motto:**  
-<h3>
-  <em>🌈 “Code. Learn. Build. Inspire.”</em><br>
-  <em>💻 “Every line of code is a step toward progress.”</em>
-</h3>
+<p align="center">
+  <img src="https://readme-animated-text.vercel.app/api?text=🌈%20Code.%20Learn.%20Build.%20Inspire.&animation=fadeIn&color=8A2BE2&fontSize=36" /><br>
+  <img src="https://readme-animated-text.vercel.app/api?text=💻%20Every%20line%20of%20code%20is%20a%20step%20toward%20progress.&animation=fadeInUp&color=00FFFF&fontSize=28" />
+</p>
 
-</div>
 
 ---
 <p align="center">
