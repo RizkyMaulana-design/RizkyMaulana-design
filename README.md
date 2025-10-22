@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://text-svg-generator.vercel.app/api?text=HELLO%20WORLD&fontSize=50&color=2196F3&shimmer=true" alt="Teks Berkilauan">
-</p>
-
-<p align="center">
-  <img src="https://text-svg-generator.vercel.app/api?text=Mari%20Mulai%20Coding!&fontSize=50&color=FF9800&shimmer=true" alt="Teks Berkilauan">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=highcontrast" alt="Streak Kontribusi GitHub Anda" />
 </p>
 
 <p align="center">
