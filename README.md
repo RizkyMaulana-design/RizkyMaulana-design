@@ -104,8 +104,19 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 ---
 
 ## 💰 Support Me
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/081522702992)
 
+<p align="center">
+  <a href="https://link.dana.id/minta?full_url=https://qr.dana.id/v1/281012012025041439960305" target="_blank">
+    <img src="https://img.shields.io/badge/DANA-%2300C4FF.svg?style=for-the-badge&logo=dana&logoColor=white&labelColor=001F3F&color=00E0FF" alt="DANA" />
+  </a>
+  <a href="https://app.gopay.co.id/NF8p/vw0cu8ck" target="_blank">
+    <img src="https://img.shields.io/badge/GoPay-%2300FF7F.svg?style=for-the-badge&logo=grab&logoColor=white&labelColor=001F3F&color=00FFAA" alt="GoPay" />
+  </a>
+</p>
+
+<p align="center">
+  <em>✨ Every small support helps me create more awesome projects 💻</em>
+</p>
 ---
 
 <p align="center">
