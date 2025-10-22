@@ -95,8 +95,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 
 ## 🎧 Spotify — Now Playing
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Music Animation"><br>
-  <em>🎶 Vibing to some code beats...</em>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Listening to Music while Coding">
+  <br>
+  <em>🎧 Lost in code and rhythm — where music fuels creativity 🎶</em>
 </p>
 
 ---
