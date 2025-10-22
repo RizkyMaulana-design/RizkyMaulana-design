@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+Welcome+everyone;I'm+Rizky+Maulana;A+Passionate+Programmer+%26+Builder;Let's+Code+Something+Awesome!">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%">
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
