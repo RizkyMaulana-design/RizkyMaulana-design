@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Rizky%20Maulana%20✨&width=800&height=180" />
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
