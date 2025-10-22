@@ -3,6 +3,14 @@
 </p>
 
 <p align="center">
+  <img src="https://text-svg-generator.vercel.app/api?text=HELLO%20WORLD&fontSize=50&color=2196F3&shimmer=true" alt="Teks Berkilauan">
+</p>
+
+<p align="center">
+  <img src="https://text-svg-generator.vercel.app/api?text=Mari%20Mulai%20Coding!&fontSize=50&color=FF9800&shimmer=true" alt="Teks Berkilauan">
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300"/>
 </p>
 
