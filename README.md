@@ -27,15 +27,9 @@
 
 
 ## ☕ About Me
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/border.gif" width="100%" />
-
-<h2>✨ Thanks for stopping by! 🚀</h2>
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/border.gif" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=────────────────────────────;Thanks+for+stopping+by!+🚀;────────────────────────────" alt="Thanks Animation" />
+</p>
 Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
