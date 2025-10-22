@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E6FF&fontAlignY=35&fontSize=50&text=Rizky%20Maulana%20⚡&desc=Full%20Stack%20Developer%20|%20Creative%20Thinker&descAlignY=70" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:232323&height=220&text=Rizky%20Maulana%20💻&fontColor=00FF41&animation=fadeIn&fontSize=45&desc=%24%20Loading...%20Developer%20Mode%20Activated&descAlignY=70&descAlign=50" />
