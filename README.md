@@ -14,10 +14,14 @@
 ---
 
 ## ☕ About Me
-Hi! I'm **Rizky Maulana**, a web and software developer from Indonesia 🇮🇩.  
+
+Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
-Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.  
-> 💡 Motto: *Code. Learn. Build. Inspire.*
+Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
+
+💡 **Motto:**  
+> _"Code. Learn. Build. Inspire."_  
+> _Every line of code is a step toward progress._
 
 ---
 
