@@ -32,7 +32,7 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 
 💡 **Motto:**  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+System+Online...;%3E+Welcome+to+Rizky+Maulana's+Terminal;%3E+Initializing+Innovation+Sequence...;%3E+In+Code+We+Trust.;%3E+Coding+the+Matrix+of+Tomorrow." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00FF41,50:00FFF6,100:FF00FF&text=Rizky%20Maulana%20%7C%20Hacking%20the%20Future%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=28" />
 </p>
 
 ---
