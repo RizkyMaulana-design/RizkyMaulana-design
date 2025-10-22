@@ -20,7 +20,7 @@ const RizkyMaulana = {
   fav_quote: "Dream big, build bigger. 🚀"
 }
 
----
+----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2GyTR5hu)
