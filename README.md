@@ -24,8 +24,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+the+Universe+of+Code...;Welcome+to+Rizky+Maulana's+World!;Let's+Build+Something+Extraordinary!" />
 </p>
 
-
-## ☕ About Me
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
@@ -33,6 +31,10 @@
 Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 <div align="center">
   
