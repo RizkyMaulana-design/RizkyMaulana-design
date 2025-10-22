@@ -28,6 +28,7 @@
 
 ## ☕ About Me
 
+<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Thanks%20for%20stopping%20by!%20🚀&width=1100&height=140&color=0:ff8a00,50:ff3b3b,100:ffd600&fontSize=48" />
 Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
