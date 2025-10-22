@@ -29,7 +29,9 @@
 
 
 ## ☕ About Me
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Statistik GitHub Anda" />
+</p>
 Hi! I'm **Rizky Maulana**, a web and software developer from **Indonesia 🇮🇩**.  
 I love coding, design, and creating projects that make a difference.  
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
