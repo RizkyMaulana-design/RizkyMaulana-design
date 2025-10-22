@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF416C,100:FF4B2B&height=220&text=Rizky%20Maulana%20🔥&fontColor=fff&animation=blink&fontSize=50&desc=Turning%20Passion%20into%20Code&descAlignY=70&descAlign=50" />
@@ -40,7 +37,9 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 </div>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2GyTR5hu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizkymaulana270205)
