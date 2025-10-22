@@ -33,11 +33,15 @@ I love coding, design, and creating projects that make a difference.
 Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also tinkering with automation & networking.
 
 <div align="center">
+  
+## 💡 Motto
 
-💡 **Motto:**  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&pause=1100&color=00FF41&center=true&vCenter=true&width=780&lines=•+%E2%80%9CCode+is+my+canvas,+logic+is+my+art.%E2%80%9D;•+%E2%80%9CDesigning+dreams,+coding+realities.%E2%80%9D;•+%E2%80%9CWhere+imagination+meets+innovation.%E2%80%9D;•+%E2%80%9CDigital+art+through+lines+of+logic.%E2%80%9D" />
-</p>
+> "Code is my canvas, logic is my art."  
+> "Designing dreams, coding realities."  
+> "Where imagination meets innovation."  
+> "Digital art through lines of logic."
+
+✨ *Every line of code tells a story — mine begins with creativity.*
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
