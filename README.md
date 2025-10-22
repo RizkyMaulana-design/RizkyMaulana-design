@@ -41,7 +41,6 @@ Currently exploring **Next.js**, **Laravel**, and **SvelteKit** — while also t
 > "Where imagination meets innovation."  
 > "Digital art through lines of logic."
 
-✨ *Every line of code tells a story — mine begins with creativity.*
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
