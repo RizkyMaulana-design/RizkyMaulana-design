@@ -1,7 +1,12 @@
 
-<!-- HEADER -->
+
+<!-- 🌌  HEADER ANIMASI FUTURISTIK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00E0FF&center=true&vCenter=true&width=700&lines=Rizky+Maulana+⚡;Web+%26+Software+Developer;UI%2FUX+Designer+%7C+Tech+Innovator;Welcome+to+My+Digital+Universe!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=220&text=Rizky%20Maulana%20⚡&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=👋+Hi+There!+I'm+Rizky+Maulana;💻+Web+%26+Software+Developer;🎨+UI/UX+Designer;🚀+Tech+Innovator+from+Indonesia;🔥+Let's+Build+Something+Extraordinary!" alt="Typing Animation">
 </p>
 
 ---
@@ -14,23 +19,25 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-## 🚀 Currently Working On
-- 🌐 Building modern **Full Stack Web Apps** using Next.js + Laravel  
-- 🎨 Designing intuitive **UI/UX prototypes** in Figma  
-- ☁️ Automating deployments with **CI/CD & Cloud Services**  
-- 🤖 Exploring **AI Integration** for creative web solutions  
+## 🚀 Currently Working On  
+- ⚙️ Full-stack Web Development using **Next.js** + **Laravel**  
+- 🎨 Designing seamless **UI/UX interfaces** in **Figma**  
+- ☁️ Deploying with **Vercel**, **Firebase**, & **Cloudflare**  
+- 🤖 Experimenting with **AI-powered coding tools**  
 
 ---
 
-## 🎯 2025 Goals
-- 🧱 Launch a personal portfolio website with live project demos  
-- 🧠 Contribute to open-source projects  
-- 🪄 Master TypeScript & SvelteKit  
-- 🌍 Collaborate with developers worldwide  
+## 🌟 2025 Goals  
+- 💼 Launch a personal tech startup  
+- 🌐 Release open-source projects  
+- 🧠 Master **TypeScript + SvelteKit**  
+- 🌍 Collaborate with international devs  
+- 🪄 Create aesthetic and functional web experiences  
 
 ---
 
-## 💻 Tech Stack (Animated)
+## 💻 Tech Stack (Neon Animated)
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,tailwind,figma" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,kotlin,python,flask" /><br>
@@ -40,26 +47,26 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-## ⚙️ Tech Vibes
+## ⚡ Tech Universe  
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Rizky%20Maulana%20Tech%20Stack&lineCount=2&theme=tokyonight&gap=20&line1=HTML,CSS,JS,React,NextJS,PHP&line2=Laravel,Python,MySQL,Git,GitHub,Cloud" alt="Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Rizky%20Maulana's%20Tech%20Universe&fontSize=18&lineHeight=25&lineCount=2&theme=tokyonight&gap=20&line1=HTML,CSS,JS,React,NextJS,PHP,Laravel&line2=Python,MySQL,Git,GitHub,Firebase,Cloud" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📈 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=RizkyMaulana-design&theme=tokyonight&hide_border=true" height="160" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=RizkyMaulana-design&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=react-dark&hide_border=true&area=true&radius=10" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=github-compact&hide_border=true&area=true&radius=10" width="95%"/>
 </p>
 
 ---
 
-## 🧩 Developer Stats  
+## 🧩 Developer Overview  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkyMaulana-design&theme=tokyonight" width="90%" />
   <br>
@@ -78,7 +85,14 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ## 🎧 Currently Vibing To  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h4qcrcfgglzftlk4daxc3zjqwu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="500" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h4qcrcfgglzftlk4daxc3zjqwu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" width="500" />
+</p>
+
+---
+
+## 🌈 Favorite Tools  
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,json&frameworks=react,laravel,nextjs,nodejs,tailwind&tools=vscode,git,figma,postman,docker,vercel&theme=react" width="85%">
 </p>
 
 ---
@@ -87,7 +101,8 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 <p align="center">
   <em>“Code is my canvas, logic is my art.”</em><br/>
   <em>“Designing dreams, coding realities.”</em><br/>
-  <em>“Where creativity meets technology.”</em>
+  <em>“Where creativity meets technology.”</em><br/>
+  <em>“Innovation starts with curiosity.”</em>
 </p>
 
 ---
@@ -102,7 +117,7 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-## 😎 Fun Corner  
+## 💫 Fun Corner  
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke" /><br>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
@@ -111,7 +126,9 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 ---
 
 <p align="center">
-  <sub>✨ Built with passion by <b>Rizky Maulana</b> — Dream. Code. Create. ⚡</sub><br/>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
+<p align="center">
+  <sub>✨ Built with passion by <b>Rizky Maulana</b> — Dream. Code. Create. ⚡</sub>
+</p>
