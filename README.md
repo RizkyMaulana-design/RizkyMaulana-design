@@ -130,20 +130,6 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&color=00E0FF&center=true&vCenter=true&width=600&lines=⚡+Coding+in+Flow;🎵+When+logic+meets+melody;☕+Fueled+by+coffee,+powered+by+beats;💻+Lost+in+lines+and+rhythms;🌙+Creating+while+the+world+sleeps" />
 </p>
 
-<!-- 🌈 NEON AUDIO BAR EFFECT -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-music-visualizer/main/animated-bars.svg" width="600" alt="Animated Equalizer"/>
-</p>
-
-<!-- 🧠 QUOTE ANIMASI -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines='Good+music+drives+great+code.';‘Creativity+has+its+own+frequency.’;‘Flow+state+achieved.’" />
-</p>
-
-<!-- 🎨 WAVE FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E0FF&height=120&section=footer&animation=fadeIn" />
-</p>
 ---
 
 ## ⚡ Favorite Tools I Use Daily
