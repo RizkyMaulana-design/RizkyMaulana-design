@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=100&section=header&animation=fadeIn" />
-</p>
+
 
 <!-- 🌌  HEADER ANIMASI FUTURISTIK -->
 <p align="center">
@@ -8,15 +6,59 @@
 </p>
 
 ---
-
-## 🧠 About Me  
+<!-- 💫 ANIMASI HEADER -->
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Rizky%20Maulana's%20Tech%20Universe&fontSize=18&lineHeight=25&lineCount=2&theme=tokyonight&gap=20&line1=HTML,CSS,JS,React,NextJS,PHP,Laravel&line2=Python,MySQL,Git,GitHub,Firebase,Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!;I'm+Rizky+Maulana;A+Passionate+Web+%26+Software+Developer;From+Indonesia+🇮🇩;Welcome+to+my+creative+universe!">
 </p>
-I’m a passionate **Web & Software Developer** who enjoys turning ideas into digital reality.  
-Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automation** — blending design, logic, and innovation.  
 
-💡 *“Building the future, one commit at a time.”*  
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</p>
+
+### 💡 Who Am I?
+
+Hi, I’m **Rizky Maulana**, a **Tech Enthusiast & Student Developer** from Indonesia 🇮🇩.  
+I’m passionate about turning ideas into interactive and beautiful digital experiences.  
+Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending design, logic, and innovation.  
+
+✨ *“Building the future, one commit at a time.”*
+
+---
+
+### 🧭 My Developer Journey
+- 🌱 Still learning and experimenting with new technologies every day  
+- 💻 Love solving problems through code and creative design  
+- ⚙️ Interested in **Web Development**, **Networking**, and **UI/UX Design**  
+- 🎯 Goal: To grow into a **Full-Stack Developer** who builds meaningful projects  
+
+---
+
+### ⚡ Quick Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Software%20Development-00E0FF?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Next.js%20%7C%20Laravel%20%7C%20SvelteKit-8A2BE2?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite_Tool-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee_Fuel-%E2%98%95%20Essential-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 My Philosophy
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF00FF&center=true&vCenter=true&width=600&lines='Design+is+thinking+made+visual.';‘Code+is+the+art+of+logic.’;‘Learn,+Build,+Repeat.’" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="480" alt="Animated Tech Flow">
+</p>
+
+<p align="center">
+  <em>“I don’t just write code — I design experiences.”</em>
+</p>
 
 ---
 
