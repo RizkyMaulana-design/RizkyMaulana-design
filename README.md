@@ -4,7 +4,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=220&text=Rizky%20Maulana%20⚡&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&fontSize=40" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="500" alt="Circuit Energy Animation">
+</p>
 
+<p align="center">
+  <em>“Energy flows through every line of my code.” ⚡</em>
+</p>
 ---
 
 ## 🧠 About Me  
