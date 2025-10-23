@@ -23,13 +23,12 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 - 🤖 Experimenting with **AI-powered coding tools**  
 
 ---
-
-## 🌟 2025 Goals  
-- 💼 Launch a personal tech startup  
-- 🌐 Release open-source projects  
-- 🧠 Master **TypeScript + SvelteKit**  
-- 🌍 Collaborate with international devs  
-- 🪄 Create aesthetic and functional web experiences  
+## 🌟 2025 Goals (as a Student Developer)
+- 🎓 Focus on mastering **fundamentals of programming** and clean code principles  
+- 💻 Build and publish more **personal & academic projects**  
+- 🧠 Deepen understanding in **Web Development, Networking, and UI/UX Design**  
+- 🤝 Collaborate with other students and open-source communities  
+- 🚀 Prepare for future **internship and professional experience**  
 
 ---
 
