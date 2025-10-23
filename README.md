@@ -125,11 +125,6 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1rbW1hMjV3czFxdGcyNzU0eXRldjZ3YWVmbmVkMW0wZWd2NnpnYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6BPqTSAQ6Nf3uE8/giphy.gif" width="300" alt="Neon Wave Animation">
 </p>
 
-<!-- 🌀 ANIMASI TEKS INTERAKTIF -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&color=00E0FF&center=true&vCenter=true&width=600&lines=⚡+Coding+in+Flow;🎵+When+logic+meets+melody;☕+Fueled+by+coffee,+powered+by+beats;💻+Lost+in+lines+and+rhythms;🌙+Creating+while+the+world+sleeps" />
-</p>
-
 ---
 
 ## ⚡ Favorite Tools I Use Daily
