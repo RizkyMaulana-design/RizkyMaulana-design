@@ -1,76 +1,84 @@
-
-<!-- ✨ Professional GitHub Profile README by Rizky Maulana -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:00FF41,100:FF00FF&text=Rizky%20Maulana%20%7C%20Building%20the%20Future%20with%20Code%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=26" />
-</p>
-
-
-
----
-
-### 🧠 About Me
-I'm a passionate **Web & Software Developer** from **Indonesia 🇮🇩** who loves exploring new technologies, building digital experiences, and crafting creative UI/UX solutions.  
-Currently diving deeper into **Next.js**, **Laravel**, and **SvelteKit**, while experimenting with **automation** and **networking** projects.
-
-💡 *"Turning ideas into digital reality."*
-
----
-
-### 🧰 Tech Stack
-
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Tools & Platforms**  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
+<!-- ⚡ Professional Futuristic GitHub Profile by Rizky Maulana -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyMaulana-design&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FF41,50:00FFF6,100:FF00FF&text=Rizky%20Maulana%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=38&desc=Web%20%26%20Software%20Developer%20|%20Tech%20Explorer%20from%20Indonesia%20🇮🇩&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+world+of+Code!;I'm+Rizky+Maulana;Full-stack+Developer+%26+UI%2FUX+Designer;Let's+Build+Something+Extraordinary!" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## 🧠 About Me
+I’m a passionate **Web & Software Developer** who enjoys turning ideas into digital reality.  
+Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automation** — blending design, logic, and innovation.  
+
+💡 *“Building the future, one commit at a time.”*
+
+---
+
+## 💻 Tech Stack (Animated)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RizkyMaulana-design&theme=tokyonight&no-frame=true&row=1&column=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,python,java,kotlin,mysql,mongodb,git,github,linux,figma,gcp" />
+</p>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=RizkyMaulana-design&theme=tokyonight&data=followers,repositories,stars,commits" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 📊 GitHub Analytics
 <p align="center">
-  <a href="https://instagram.com/rizkymaulana270205"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rizkymaulana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://discord.gg/2GyTR5hu"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white"/></a>
-  <a href="mailto:rizkymaulana2702052025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=RizkyMaulana-design&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=react-dark&hide_border=true&area=true&radius=10" width="95%"/>
 </p>
 
 ---
 
-### 💬 Fun Quote
+## 🧩 Developer Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkyMaulana-design&theme=tokyonight" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RizkyMaulana-design&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RizkyMaulana-design&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RizkyMaulana-design&theme=onestar&no-frame=true&row=1&column=5" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/rizkymaulana270205"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/rizkymaulana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://discord.gg/2GyTR5hu"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:rizkymaulana2702052025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+## 🎧 Currently Vibing To
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bb4n2nbkpdqsr7tst62bpdnoba&cover_image=true&theme=novatorem&bar_color=00FFB3&bar_color_cover=false" width="400"/>
+</p>
+
+---
+
+## 💬 Quotes I Live By
 <p align="center">
   <em>“Code is my canvas, logic is my art.”</em><br/>
-  <em>“Designing dreams, coding realities.”</em>
+  <em>“Designing dreams, coding realities.”</em><br/>
+  <em>“Where creativity meets technology.”</em>
 </p>
 
 ---
@@ -80,5 +88,7 @@ Currently diving deeper into **Next.js**, **Laravel**, and **SvelteKit**, while 
 </p>
 
 <p align="center">
-  <sub>✨ Crafted with passion by <b>Rizky Maulana</b> — Always learning, always building.</sub>
+  <sub>✨ Built with passion by <b>Rizky Maulana</b> — Dream. Code. Create. ⚡</sub>
 </p>
+
+---
