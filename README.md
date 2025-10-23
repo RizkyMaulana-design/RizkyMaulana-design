@@ -6,10 +6,7 @@
 </p>
 
 ---
-<!-- 💫 ANIMASI HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!;I'm+Rizky+Maulana;A+Passionate+Web+%26+Software+Developer;From+Indonesia+🇮🇩;Welcome+to+my+creative+universe!">
-</p>
+
 
 ---
 
