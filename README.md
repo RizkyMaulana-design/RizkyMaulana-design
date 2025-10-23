@@ -10,27 +10,6 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 ---
 
 ## 💻 Tech Stack (Animated)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,laravel,python,java,kotlin,mysql,mongodb,git,github,linux,figma,gcp" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=RizkyMaulana-design&theme=tokyonight&data=followers,repositories,stars,commits" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=RizkyMaulana-design&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=react-dark&hide_border=true&area=true&radius=10" width="95%"/>
-</p>
-
-## 💻 Tech Stack (Animated)
 
 ### 🎨 Frontend
 <p align="center">
@@ -51,6 +30,20 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,notion,docker,figma" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=RizkyMaulana-design&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=react-dark&hide_border=true&area=true&radius=10" width="95%"/>
+</p>
+
+
 
 ---
 
