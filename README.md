@@ -46,7 +46,6 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 <p align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&title=Rizky%20Maulana%27s%20Tech%20Stack&fontSize=18&lineHeight=25&lineCount=2&theme=tokyonight&gap=15&line1=HTML5,css3,js,react,php,python&line2=laravel,nextjs,tailwind,mongodb,git,github" alt="Tech Stack Animation"/>
 </p>
----
 
 ## 🧩 Developer Stats
 <p align="center">
