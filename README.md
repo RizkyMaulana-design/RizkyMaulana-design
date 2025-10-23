@@ -114,11 +114,6 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 
 ---
 
-<!-- ⚡ CONTACT INFO & VIBE -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Contact Animation">
-</p>
-
 <p align="center">
   <em>💬 “Collaboration is the key to innovation — reach out anytime!”</em><br/>
   <em>📫 <b>Email:</b> rizkymaulana2702052025@gmail.com</em>
