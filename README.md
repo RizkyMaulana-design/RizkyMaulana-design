@@ -114,26 +114,30 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
+<!-- 🌊 HEADER ANIMASI FUTURISTIK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=140&section=header&text=🎧%20Currently%20Vibing%20To%20🎵&fontColor=ffffff&fontSize=30&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E0FF,100:FF00FF&height=160&section=header&text=🎧%20Currently%20Vibing%20To%20🎵&fontSize=36&fontColor=ffffff&animation=twinkling"/>
 </p>
 
+<!-- 🎵 ANIMATED VISUAL (CINEMATIC CODING) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Vibes">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420" alt="Coding Beats Animation">
 </p>
 
+<!-- 💫 TYPING ANIMATION - UNIQUE PHRASES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🎶+Chillin'+while+coding...;🔥+Beats+and+logic+in+sync;💻+Turning+coffee+into+code;🌙+Lost+in+the+flow...+again" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&color=FF00FF&center=true&vCenter=true&width=600&lines=💻+Lost+in+code+and+lo-fi+beats...;☕+Typing+lines+to+the+rhythm+of+innovation;🔥+When+logic+dances+with+melody;🚀+Coding+in+flow,+vibing+in+peace" />
 </p>
 
+<!-- ✨ QUOTE -->
 <p align="center">
-  <em>“Every line of code deserves its own rhythm.”</em>
+  <em>“Good music writes the soundtrack of good code.”</em>
 </p>
 
+<!-- 🌈 FUTURISTIC FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E0FF&height=120&section=footer&animation=fadeIn" />
 </p>
-
 ---
 
 ## ⚡ Favorite Tools I Use Daily
