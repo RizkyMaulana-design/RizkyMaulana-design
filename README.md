@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RizkyMaulana-design/RizkyMaulana-design/main/assets/header-clean.gif" alt="Rizky Maulana Header" width="100%"/>
+<p align="center"><p align="center">
+  <img src="https://raw.githubusercontent.com/RizkyMaulana-design/RizkyMaulana-design/main/assets/header-clean.png" 
+       alt="Rizky Maulana Header" width="100%">
 </p>
 
 <h1 align="center">Rizky Maulana ⚡</h1>
