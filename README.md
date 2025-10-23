@@ -90,7 +90,7 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 
 ## Connect with me
 
-<!-- 🔗 SOCIAL ICON BUTTONS -->
+<!-- 🌟 SOCIAL & CONTACT BUTTONS -->
 <p align="center">
   <a href="https://instagram.com/rizkymaulana270205" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -101,14 +101,29 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
   <a href="https://discord.gg/2GyTR5hu" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:rizkymaulana2702052025@gmail.com">
+  <a href="mailto:rizkymaulana2702052025@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.tiktok.com/@rizky.maulana5334" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://wa.me/6285872051850" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Rizkymaulana2702" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://us05web.zoom.us/chat/invite/0c0n3mN743qNj_QPYLjJ0" target="_blank">
+    <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+  </a>
+  <a href="https://mobile.capcutshare.com/sv2/ZSU75f3tL/" target="_blank">
+    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+  </a>
+  <a href="https://ome-tv.app/id292718769" target="_blank">
+    <img src="https://img.shields.io/badge/OmeTV-FF4500?style=for-the-badge&logo=television&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@rizky.maulana5334" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://youtube.com/@rizkymaulana-t2p?si=eLJ-hwByLeQl1Cka" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
