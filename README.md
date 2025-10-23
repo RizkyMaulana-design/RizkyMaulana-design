@@ -9,6 +9,9 @@
 ---
 
 ## 🧠 About Me  
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Rizky%20Maulana's%20Tech%20Universe&fontSize=18&lineHeight=25&lineCount=2&theme=tokyonight&gap=20&line1=HTML,CSS,JS,React,NextJS,PHP,Laravel&line2=Python,MySQL,Git,GitHub,Firebase,Cloud" />
+</p>
 I’m a passionate **Web & Software Developer** who enjoys turning ideas into digital reality.  
 Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automation** — blending design, logic, and innovation.  
 
@@ -39,13 +42,6 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,kotlin,python,flask" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres,redis,gcp,vercel,aws" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,notion,docker,figma" />
-</p>
-
----
-
-## ⚡ Tech Universe  
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Rizky%20Maulana's%20Tech%20Universe&fontSize=18&lineHeight=25&lineCount=2&theme=tokyonight&gap=20&line1=HTML,CSS,JS,React,NextJS,PHP,Laravel&line2=Python,MySQL,Git,GitHub,Firebase,Cloud" />
 </p>
 
 ---
