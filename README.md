@@ -114,9 +114,24 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-## 🎧 Currently Vibing To  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h4qcrcfgglzftlk4daxc3zjqwu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=53b14f&bar_color_cover=true" width="500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=140&section=header&text=🎧%20Currently%20Vibing%20To%20🎵&fontColor=ffffff&fontSize=30&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Vibes">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🎶+Chillin'+while+coding...;🔥+Beats+and+logic+in+sync;💻+Turning+coffee+into+code;🌙+Lost+in+the+flow...+again" />
+</p>
+
+<p align="center">
+  <em>“Every line of code deserves its own rhythm.”</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E0FF&height=120&section=footer&animation=fadeIn" />
 </p>
 
 ---
