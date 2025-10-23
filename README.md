@@ -11,22 +11,18 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ## 💻 Tech Stack (Animated)
 
-### 🎨 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,tailwind,figma" />
 </p>
 
-### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,kotlin,python,flask" />
 </p>
 
-### 🧠 Database & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres,redis,gcp,vercel,aws" />
 </p>
 
-### 🧰 Tools & Dev Environment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,notion,docker,figma" />
 </p>
