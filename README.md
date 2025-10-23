@@ -5,17 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=220&text=Rizky%20Maulana%20⚡&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&fontSize=40" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:00E0FF,100:8A2BE2&height=200&text=👾%20Welcome%20to%20My%20Code%20Galaxy%20👾&fontAlignY=40&fontSize=35&fontColor=ffffff&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6MbfalLBBmGZcLp6/giphy.gif" width="500" alt="Matrix Animation">
-</p>
-
-<p align="center">
-  <em>“Dive into a universe where imagination becomes innovation.”</em>
-</p>
 ---
 
 ## 🧠 About Me  
