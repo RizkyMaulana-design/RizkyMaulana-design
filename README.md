@@ -5,9 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:00FF41,100:FF00FF&text=Rizky%20Maulana%20%7C%20Building%20the%20Future%20with%20Code%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=26" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Rizky+Maulana;Web+%26+Software+Developer;UI%2FUX+Designer+%7C+Tech+Enthusiast;Code.+Design.+Create." />
-</p>
+
 
 ---
 
