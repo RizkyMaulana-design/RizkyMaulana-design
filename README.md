@@ -114,27 +114,33 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-<!-- 🌊 HEADER ANIMASI FUTURISTIK -->
+<!-- 🌌 HEADER ANIMASI FUTURISTIK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00E0FF,100:FF00FF&height=160&section=header&text=🎧%20Currently%20Vibing%20To%20🎵&fontSize=36&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=160&section=header&text=🎧%20Currently%20Vibing%20To%20🎵&fontSize=36&fontColor=FFFFFF&animation=twinkling" />
 </p>
 
-<!-- 🎵 ANIMATED VISUAL (CINEMATIC CODING) -->
+<!-- 💫 VISUAL ANIMASI MULTILAYER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="420" alt="Coding Beats Animation">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Coding Loop Animation"><br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1rbW1hMjV3czFxdGcyNzU0eXRldjZ3YWVmbmVkMW0wZWd2NnpnYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6BPqTSAQ6Nf3uE8/giphy.gif" width="300" alt="Neon Wave Animation">
 </p>
 
-<!-- 💫 TYPING ANIMATION - UNIQUE PHRASES -->
+<!-- 🌀 ANIMASI TEKS INTERAKTIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&color=FF00FF&center=true&vCenter=true&width=600&lines=💻+Lost+in+code+and+lo-fi+beats...;☕+Typing+lines+to+the+rhythm+of+innovation;🔥+When+logic+dances+with+melody;🚀+Coding+in+flow,+vibing+in+peace" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1200&color=00E0FF&center=true&vCenter=true&width=600&lines=⚡+Coding+in+Flow;🎵+When+logic+meets+melody;☕+Fueled+by+coffee,+powered+by+beats;💻+Lost+in+lines+and+rhythms;🌙+Creating+while+the+world+sleeps" />
 </p>
 
-<!-- ✨ QUOTE -->
+<!-- 🌈 NEON AUDIO BAR EFFECT -->
 <p align="center">
-  <em>“Good music writes the soundtrack of good code.”</em>
+  <img src="https://raw.githubusercontent.com/Akshay090/svg-music-visualizer/main/animated-bars.svg" width="600" alt="Animated Equalizer"/>
 </p>
 
-<!-- 🌈 FUTURISTIC FOOTER -->
+<!-- 🧠 QUOTE ANIMASI -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines='Good+music+drives+great+code.';‘Creativity+has+its+own+frequency.’;‘Flow+state+achieved.’" />
+</p>
+
+<!-- 🎨 WAVE FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E0FF&height=120&section=footer&animation=fadeIn" />
 </p>
