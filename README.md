@@ -1,12 +1,21 @@
 <!-- ⚡ Professional Futuristic GitHub Profile by Rizky Maulana -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RizkyMaulana-design/RizkyMaulana-design/main/assets/header-clean.gif" alt="Rizky Maulana Header" width="100%" />
+</p>
+
+<h1 align="center">Rizky Maulana ⚡</h1>
+<h3 align="center">Web & Software Developer | UI/UX Enthusiast | Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=150&text=Rizky%20Maulana%20⚡&fontColor=ffffff" alt="Rizky Maulana Header" />
-  <br/>
-  <b>Rizky Maulana ⚡ | Web & Software Developer</b>
+  <em>"Building the future, one commit at a time."</em>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizkyMaulana-design&label=Profile+Views&color=00b4d8&style=flat-square" alt="profile views"/>
+</p>
+
 
 ## 🧠 About Me
 I’m a passionate **Web & Software Developer** who enjoys turning ideas into digital reality.  
