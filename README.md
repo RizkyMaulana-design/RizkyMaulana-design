@@ -1,11 +1,9 @@
 <!-- ⚡ Professional Futuristic GitHub Profile by Rizky Maulana -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FF41,50:00FFF6,100:FF00FF&text=Rizky%20Maulana%20⚡&fontAlignY=40&fontColor=ffffff&fontSize=38&desc=Web%20%26%20Software%20Developer%20|%20Tech%20Explorer%20from%20Indonesia%20🇮🇩&descAlignY=60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+world+of+Code!;I'm+Rizky+Maulana;Full-stack+Developer+%26+UI%2FUX+Designer;Let's+Build+Something+Extraordinary!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=150&text=Rizky%20Maulana%20⚡&fontColor=ffffff" alt="Rizky Maulana Header" />
+  <br/>
+  <b>Rizky Maulana ⚡ | Web & Software Developer</b>
 </p>
 
 ---
