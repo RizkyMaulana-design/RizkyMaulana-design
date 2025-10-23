@@ -127,24 +127,6 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-## ⚡ Favorite Tools I Use Daily
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-<p align="center">
-  🚀 “The perfect combo of creativity and productivity.”
-</p>
-
----
-
 ## 💬 Quotes I Live By  
 <p align="center">
   <em>“Code is my canvas, logic is my art.”</em><br/>
