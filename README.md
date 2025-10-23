@@ -38,22 +38,6 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
   <img src="https://img.shields.io/badge/Coffee_Fuel-%E2%98%95%20Essential-orange?style=for-the-badge" />
 </p>
 
----
-
-### 🧠 My Philosophy
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF00FF&center=true&vCenter=true&width=600&lines='Design+is+thinking+made+visual.';‘Code+is+the+art+of+logic.’;‘Learn,+Build,+Repeat.’" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="480" alt="Animated Tech Flow">
-</p>
-
-<p align="center">
-  <em>“I don’t just write code — I design experiences.”</em>
-</p>
 
 ---
 
