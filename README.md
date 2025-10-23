@@ -87,12 +87,48 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 </p>
 
 ---
-## 🌐 Connect with Me  
+<!-- ✨ ANIMATED HEADER -->
 <p align="center">
-  <a href="https://instagram.com/rizkymaulana270205"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/rizkymaulana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://discord.gg/2GyTR5hu"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:rizkymaulana2702052025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🌐+Let's+Connect!;💬+Find+Me+Across+the+Web;⚡+Stay+in+Touch,+Let's+Collaborate!" />
+</p>
+
+<!-- 🔗 SOCIAL ICON BUTTONS -->
+<p align="center">
+  <a href="https://instagram.com/rizkymaulana270205" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rizkymaulana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/2GyTR5hu" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:rizkymaulana2702052025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@rizky.maulana5334" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@rizkymaulana-t2p?si=eLJ-hwByLeQl1Cka" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ⚡ CONTACT INFO & VIBE -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Contact Animation">
+</p>
+
+<p align="center">
+  <em>💬 “Collaboration is the key to innovation — reach out anytime!”</em><br/>
+  <em>📫 <b>Email:</b> rizkymaulana2702052025@gmail.com</em>
+</p>
+
+<!-- 🌈 FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=120&section=footer&animation=fadeIn"/>
 </p>
 
 
