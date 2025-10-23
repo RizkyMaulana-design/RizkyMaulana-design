@@ -87,7 +87,13 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 </p>
 
 ---
-
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://instagram.com/rizkymaulana270205"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/rizkymaulana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://discord.gg/2GyTR5hu"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:rizkymaulana2702052025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+</p>
 ## 📈 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RizkyMaulana-design&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
@@ -136,16 +142,6 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
   <em>“Designing dreams, coding realities.”</em><br/>
   <em>“Where creativity meets technology.”</em><br/>
   <em>“Innovation starts with curiosity.”</em>
-</p>
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://instagram.com/rizkymaulana270205"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/rizkymaulana"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://discord.gg/2GyTR5hu"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:rizkymaulana2702052025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
