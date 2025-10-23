@@ -58,9 +58,9 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
 
 ---
 
-## 🎧 Currently Vibing To
+### 🎧 Currently Vibing To
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bb4n2nbkpdqsr7tst62bpdnoba&cover_image=true&theme=novatorem&bar_color=00FFB3&bar_color_cover=false" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Vibes">
 </p>
 
 ---
