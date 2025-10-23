@@ -5,11 +5,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=220&text=Rizky%20Maulana%20⚡&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&fontSize=40" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="500" alt="Circuit Energy Animation">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="480" alt="Flow Animation">
 </p>
 
 <p align="center">
-  <em>“Energy flows through every line of my code.” ⚡</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💡+Innovation+in+Motion;🌐+Design.+Code.+Inspire.;⚙️+Every+Pixel+Has+a+Purpose" />
 </p>
 ---
 
