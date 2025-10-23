@@ -30,6 +30,33 @@ Currently exploring **Next.js**, **Laravel**, **SvelteKit**, and **Cloud Automat
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkyMaulana-design&theme=react-dark&hide_border=true&area=true&radius=10" width="95%"/>
 </p>
 
+## 💻 Tech Stack (Animated)
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,tailwind,figma" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,kotlin,python,flask" />
+</p>
+
+### 🧠 Database & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,postgres,redis,gcp,vercel,aws" />
+</p>
+
+### 🧰 Tools & Dev Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,notion,docker,figma" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&title=Rizky%20Maulana%27s%20Tech%20Stack&fontSize=18&lineHeight=25&lineCount=2&theme=tokyonight&gap=15&line1=HTML5,css3,js,react,php,python&line2=laravel,nextjs,tailwind,mongodb,git,github" alt="Tech Stack Animation"/>
+</p>
 ---
 
 ## 🧩 Developer Stats
