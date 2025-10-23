@@ -1,13 +1,4 @@
 
-
-<!-- 🌌  HEADER ANIMASI FUTURISTIK -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=220&text=Rizky%20Maulana%20⚡&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&fontSize=40" />
-</p>
-
----
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </p>
@@ -22,14 +13,6 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 
 ---
 
-### 🧭 My Developer Journey
-- 🌱 Still learning and experimenting with new technologies every day  
-- 💻 Love solving problems through code and creative design  
-- ⚙️ Interested in **Web Development**, **Networking**, and **UI/UX Design**  
-- 🎯 Goal: To grow into a **Full-Stack Developer** who builds meaningful projects  
-
----
-
 ### ⚡ Quick Stats
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Software%20Development-00E0FF?style=for-the-badge&logo=target&logoColor=white" />
@@ -37,23 +20,6 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
   <img src="https://img.shields.io/badge/Favorite_Tool-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Coffee_Fuel-%E2%98%95%20Essential-orange?style=for-the-badge" />
 </p>
-
-
----
-
-## 🚀 Currently Working On  
-- ⚙️ Full-stack Web Development using **Next.js** + **Laravel**  
-- 🎨 Designing seamless **UI/UX interfaces** in **Figma**  
-- ☁️ Deploying with **Vercel**, **Firebase**, & **Cloudflare**  
-- 🤖 Experimenting with **AI-powered coding tools**  
-
----
-## 🌟 2025 Goals (as a Student Developer)
-- 🎓 Focus on mastering **fundamentals of programming** and clean code principles  
-- 💻 Build and publish more **personal & academic projects**  
-- 🧠 Deepen understanding in **Web Development, Networking, and UI/UX Design**  
-- 🤝 Collaborate with other students and open-source communities  
-- 🚀 Prepare for future **internship and professional experience**  
 
 ---
 
