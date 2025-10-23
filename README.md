@@ -5,9 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=220&text=Rizky%20Maulana%20⚡&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&fontSize=40" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=👋+Hi+There!+I'm+Rizky+Maulana;💻+Web+%26+Software+Developer;🎨+UI/UX+Designer;🚀+Tech+Innovator+from+Indonesia;🔥+Let's+Build+Something+Extraordinary!" alt="Typing Animation">
-</p>
 
 ---
 
