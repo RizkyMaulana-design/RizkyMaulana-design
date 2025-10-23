@@ -1,6 +1,4 @@
-<p align="center"><p align="center"<p align="center">
-  <img src="YOUR_RAW_URL_HERE" alt="Rizky Maulana Header" width="100%"/>
-</p>
+
 
 
 ## 🧠 About Me
