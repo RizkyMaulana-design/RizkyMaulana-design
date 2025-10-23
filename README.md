@@ -94,7 +94,7 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
   <a href="https://discord.gg/2GyTR5hu"><img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge"/></a>
   <a href="mailto:rizkymaulana2702052025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 </p>
----
+
 
 ## 📈 GitHub Analytics  
 <p align="center">
