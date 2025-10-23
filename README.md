@@ -112,8 +112,6 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
   </a>
 </p>
 
----
-
 <p align="center">
   <em>💬 “Collaboration is the key to innovation — reach out anytime!”</em><br/>
   <em>📫 <b>Email:</b> rizkymaulana2702052025@gmail.com</em>
