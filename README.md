@@ -87,10 +87,8 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 </p>
 
 ---
-<!-- ✨ ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=🌐+Let's+Connect!;💬+Find+Me+Across+the+Web;⚡+Stay+in+Touch,+Let's+Collaborate!" />
-</p>
+
+## Connect with me
 
 <!-- 🔗 SOCIAL ICON BUTTONS -->
 <p align="center">
