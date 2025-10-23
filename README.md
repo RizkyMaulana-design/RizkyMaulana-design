@@ -1,11 +1,6 @@
-<p align="center"><p align="center">
-  <img src="https://raw.githubusercontent.com/RizkyMaulana-design/RizkyMaulana-design/main/assets/header-clean.png" 
-       alt="Rizky Maulana Header" width="100%">
+<p align="center"><p align="center"<p align="center">
+  <img src="YOUR_RAW_URL_HERE" alt="Rizky Maulana Header" width="100%"/>
 </p>
-
-<h1 align="center">Rizky Maulana ⚡</h1>
-<h3 align="center">Web & Software Developer | UI/UX Enthusiast | Indonesia 🇮🇩</h3>
-<p align="center"><em>"Building the future, one commit at a time."</em></p>
 
 
 ## 🧠 About Me
