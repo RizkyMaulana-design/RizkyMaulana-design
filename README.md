@@ -5,9 +5,6 @@
   <span style="color:#FFD700;">Fighter & Assassin Main</span> 🗡️
 </h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="300" alt="Mobile Legends Logo" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-🌟Mythic%20Immortal🌟-%23FF4654?style=for-the-badge&logo=googleplay&logoColor=white" />
