@@ -1,6 +1,4 @@
 
-
-<h1 align="center">🔥 RIZKY MAULANA 🔥</h1>
 <h3 align="center">🎮 Mobile Legends Enthusiast | Fighter & Assassin Main 🗡️</h3>
 
 <p align="center">
