@@ -11,6 +11,41 @@
   <img src="https://img.shields.io/badge/Favorite_Hero-Cici%20%26%20Ling-%23FFD700?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Cici Card -->
+  <div style="border: 3px solid #FFD700; border-radius: 15px; width: 280px; background-color: #1e1e1e; box-shadow: 0 0 20px #FFD700; padding: 15px;">
+    <h2 align="center" style="color: #FFD700;">✨ CICI ✨</h2>
+    <img src="https://media.tenor.com/mJboeWjX6RQAAAAC/cici-mobile-legends.gif" width="250" alt="Cici Mobile Legends" style="border-radius: 10px;">
+    <p align="center" style="color: white; font-style: italic;">“Spinning to victory! 💫”</p>
+  </div>
+
+  <!-- Ling Card -->
+  <div style="border: 3px solid #00ADEF; border-radius: 15px; width: 280px; background-color: #1e1e1e; box-shadow: 0 0 20px #00ADEF; padding: 15px;">
+    <h2 align="center" style="color: #00ADEF;">⚔️ LING ⚔️</h2>
+    <img src="https://media.tenor.com/Rv6t-EqK5JYAAAAd/ling-mobile-legends.gif" width="250" alt="Ling Mobile Legends" style="border-radius: 10px;">
+    <p align="center" style="color: white; font-style: italic;">“The wind knows my name. 🌀”</p>
+  </div>
+
+</div>
+
+<p align="center">
+  <i>“Victory belongs to those who fight with skill and passion ⚔️💥”</i>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="320" alt="Mobile Legends Arena" />
+</p>
+
+<h1 align="center">🔥 RIZKY MAULANA 🔥</h1>
+<h3 align="center">🎮 Mobile Legends Enthusiast | Fighter & Assassin Main 🗡️</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-Mythic%20Immortal-%23FF4654?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Fighter%20%26%20Assassin-%2300ADEF?style=for-the-badge&logo=riotgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite_Hero-Cici%20%26%20Ling-%23FFD700?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
 <p align="center">
   <img src="https://media.tenor.com/Rv6t-EqK5JYAAAAd/ling-mobile-legends.gif" width="380" alt="Ling Mobile Legends" />
   <img src="https://media.tenor.com/mJboeWjX6RQAAAAC/cici-mobile-legends.gif" width="380" alt="Cici Mobile Legends" />
