@@ -1,4 +1,4 @@
-<h1 align="center">🔥 RIZKY MAULANA 🔥</h1>
+
 
 <h3 align="center">
   🎮 <span style="color:#00ADEF;">Mobile Legends Enthusiast</span> | 
