@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="wave" />
+</p>
+
+<p align="center">
   <em>✨ Tech Enthusiast | Software Developer | Future Innovator</em><br/>
   <em>“Transforming ideas into interactive, intelligent, and impactful digital experiences.”</em>
 </p>
