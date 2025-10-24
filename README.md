@@ -7,8 +7,5 @@
   <img src="https://img.shields.io/badge/Favorite_Hero-Cici%20%26%20Ling-%23FFD700?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/Rv6t-EqK5JYAAAAd/ling-mobile-legends.gif" width="380" alt="Ling Mobile Legends" />
-  <img src="https://media.tenor.com/mJboeWjX6RQAAAAC/cici-mobile-legends.gif" width="380" alt="Cici Mobile Legends" />
-</p>
+
 
