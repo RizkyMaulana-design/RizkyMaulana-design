@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="320" alt="Mobile Legends Arena" />
-</p>
+
 
 <h1 align="center">🔥 RIZKY MAULANA 🔥</h1>
 <h3 align="center">🎮 Mobile Legends Enthusiast | Fighter & Assassin Main 🗡️</h3>
