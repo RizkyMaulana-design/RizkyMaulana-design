@@ -12,6 +12,3 @@
   <img src="https://media.tenor.com/mJboeWjX6RQAAAAC/cici-mobile-legends.gif" width="380" alt="Cici Mobile Legends" />
 </p>
 
-<p align="center">
-  <i>“Victory belongs to those who fight with skill and passion ⚔️💥”</i>
-</p>
