@@ -1,3 +1,103 @@
+<!-- =========================
+   README: MOBILE LEGENDS THEME
+   Copy-paste ke file README.md
+   ========================= -->
+
+<p align="center">
+  <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="360" alt="Mobile Legends Arena" />
+</p>
+
+<h1 align="center">🔥 RIZKY MAULANA — MYTHIC IMMORTAL 🔥</h1>
+
+<p align="center">
+  <strong style="color:#FFD700;">🎮 Mobile Legends Enthusiast</strong> · <span style="color:#00ADEF;">Fighter & Assassin Main</span> 🗡️
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-🌟Mythic%20Immortal🌟-%23FF4654?style=for-the-badge&logo=googleplay&logoColor=white" alt="rank" />
+  <img src="https://img.shields.io/badge/Role-Fighter-%23FFD700?style=for-the-badge&logo=valorant&logoColor=white" alt="fighter" />
+  <img src="https://img.shields.io/badge/Role-Assassin-%2300ADEF?style=for-the-badge&logo=riotgames&logoColor=white" alt="assassin" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3500&color=00ADEF&center=true&vCenter=true&lines=⚔️+Rise+from+the+shadows...;💥+Unleash+your+ultimate+skills!;🔥+The+Battlefield+awaits!" alt="typing" />
+</p>
+
+---
+
+## 🏆 Profile Snapshot
+| | |
+|---:|:---|
+| **IGN** | `Rizky Maulana` |
+| **Rank** | 🌟 **Mythic Immortal** |
+| **Main Roles** | 🛡️ Fighter · 🗡️ Assassin |
+| **Favorite Heroes** | Cici · Ling |
+| **Playstyle** | Aggressive flank + fast objective control |
+
+---
+
+## 🎴 Hero Showcase (Cards)
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+
+**✨ CICI**  
+<div>
+  <img src="https://media.tenor.com/mJboeWjX6RQAAAAC/cici-mobile-legends.gif" width="240" alt="Cici" style="border-radius:10px; box-shadow:0 0 18px #FFD700;" />
+</div>
+<p style="color:#FFD700"><em>Spinning to victory! 💫</em></p>
+
+**Strengths**  
+- High mobility  
+- Great for cleaning team fights  
+- Strong burst and chase
+
+    </td>
+    <td align="center" valign="top" width="50%">
+
+**🌀 LING**  
+<div>
+  <img src="https://media.tenor.com/Rv6t-EqK5JYAAAAd/ling-mobile-legends.gif" width="240" alt="Ling" style="border-radius:10px; box-shadow:0 0 18px #00ADEF;" />
+</div>
+<p style="color:#00ADEF"><em>The wind knows my name. 🌀</em></p>
+
+**Strengths**  
+- Extremely high mobility  
+- Picks & rotations  
+- Snowball potential
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Visual / UI Elements (for README)
+- **Badge & typing**: memberi nuansa dinamis.  
+- **Hero GIF**: card terpisah memberi fokus tiap hero.  
+- **Text glow**: ditiru via emoji + warna untuk menonjolkan role/rank.
+
+---
+
+## 📜 How to use
+1. Buka repo GitHub-mu.  
+2. Edit atau buat file `README.md`.  
+3. Paste seluruh konten README ini.  
+4. Commit & push — langsung tampil di halaman repo.
+
+> ⚠️ Catatan: GitHub README mendukung sebagian HTML inline, tetapi beberapa style inline (terutama tag `<style>` atau script) dibatasi. Format di atas memanfaatkan gambar, badge, dan sedikit HTML yang aman.
+
+---
+
+## 🔧 Mau ditingkatkan lagi?
+Kalau kamu mau, aku bisa:
+- ✨ Tambahkan **hover effect** & **animated GIF banner** (via link gambar yang sudah jadi).  
+- 🎨 Buat **versi gambar (poster)** resolusi tinggi siap upload (PNG) dengan effect Mythic Immortal.  
+- 💻 Bikin **HTML landing page** lengkap dengan CSS animation (untuk GitHub Pages).
+
+Kamu mau aku lanjut ke opsi mana? (poster gambar / HTML landing page / tambahin hover GIF)  
+
 
 <!-- TYPING EFFECT -->
 <div align="center">
