@@ -1,4 +1,25 @@
 
+
+<p align="center">
+  <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="300" alt="Mobile Legends Arena" />
+</p>
+
+<h1 align="center">🔥 RIZKY MAULANA 🔥</h1>
+<h3 align="center">🎮 Mobile Legends Enthusiast | Game Developer | Player Since 2018 🛡️</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-Mythic%20Glory-%23E4AE33?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Jungler%20%7C%20Support-%2300ADEF?style=for-the-badge&logo=riotgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite_Hero-Lancelot%20%7C%20Chou-%23FF4654?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/p0bTC5q_dU4AAAAd/lancelot-mobile-legends.gif" width="400" alt="Lancelot Mobile Legends" />
+</p>
+
+<p align="center">
+  <i>“Victory is not luck — it's skill ⚔️”</i>
+</p>
 <!-- 💫 HEADER WITH FUTURISTIC VIBE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:FF00FF&height=180&section=header&text=Rizky%20Maulana%20🚀&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
