@@ -1,3 +1,55 @@
+
+<p align="center">
+  <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="320" alt="Mobile Legends Arena" />
+</p>
+
+<h1 align="center">🔥 RIZKY MAULANA 🔥</h1>
+<h3 align="center">🎮 Mobile Legends Enthusiast | Fighter & Assassin Main 🗡️</h3>
+
+<!-- Rank & Role Cards -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 15px;">
+
+  <!-- Rank Card -->
+  <div style="border: 3px solid #FF4654; border-radius: 15px; width: 260px; background-color: #1e1e1e; box-shadow: 0 0 20px #FF4654; padding: 15px;">
+    <h2 align="center" style="color: #FF4654;">🏆 Rank</h2>
+    <img src="https://cdn.worldvectorlogo.com/logos/mobile-legends-bang-bang.svg" width="60" alt="ML Logo" />
+    <h3 align="center" style="color: #FFD700;">Mythic Immortal</h3>
+    <p align="center" style="color: white; font-style: italic;">“Legends never rest.”</p>
+  </div>
+
+  <!-- Role Card -->
+  <div style="border: 3px solid #00ADEF; border-radius: 15px; width: 260px; background-color: #1e1e1e; box-shadow: 0 0 20px #00ADEF; padding: 15px;">
+    <h2 align="center" style="color: #00ADEF;">⚔️ Role</h2>
+    <img src="https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Role_Fighter.png" width="60" alt="Fighter" />
+    <img src="https://static.wikia.nocookie.net/mobile-legends/images/2/25/Role_Assassin.png" width="60" alt="Assassin" />
+    <h3 align="center" style="color: #9CDCFE;">Fighter & Assassin</h3>
+    <p align="center" style="color: white; font-style: italic;">“Frontline or flank — always ready.”</p>
+  </div>
+
+</div>
+
+<!-- Hero Cards -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 25px;">
+
+  <!-- Cici Card -->
+  <div style="border: 3px solid #FFD700; border-radius: 15px; width: 280px; background-color: #1e1e1e; box-shadow: 0 0 25px #FFD700; padding: 15px;">
+    <h2 align="center" style="color: #FFD700;">💫 CICI 💫</h2>
+    <img src="https://media.tenor.com/mJboeWjX6RQAAAAC/cici-mobile-legends.gif" width="250" alt="Cici Mobile Legends" style="border-radius: 10px;">
+    <p align="center" style="color: white; font-style: italic;">“Spinning to victory! 💥”</p>
+  </div>
+
+  <!-- Ling Card -->
+  <div style="border: 3px solid #00ADEF; border-radius: 15px; width: 280px; background-color: #1e1e1e; box-shadow: 0 0 25px #00ADEF; padding: 15px;">
+    <h2 align="center" style="color: #00ADEF;">🌀 LING 🌀</h2>
+    <img src="https://media.tenor.com/Rv6t-EqK5JYAAAAd/ling-mobile-legends.gif" width="250" alt="Ling Mobile Legends" style="border-radius: 10px;">
+    <p align="center" style="color: white; font-style: italic;">“The wind knows my name.”</p>
+  </div>
+
+</div>
+
+<p align="center" style="margin-top: 20px;">
+  <i>“Victory belongs to those who fight with skill and passion ⚔️💥”</i>
+</p>
 <p align="center">
   <img src="https://media.tenor.com/fxXfF6kzXMcAAAAd/mobile-legends.gif" width="320" alt="Mobile Legends Arena" />
 </p>
