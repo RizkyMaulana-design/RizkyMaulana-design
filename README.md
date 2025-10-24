@@ -87,6 +87,20 @@ Currently exploring **Next.js**, **Laravel**, and **Cloud Automation**, blending
 
 ---
 
+<h3 align="center">
+  🎮 <span style="color:#00ADEF;">Mobile Legends Enthusiast</span> | 
+  <span style="color:#FFD700;">Fighter & Assassin Main</span> 🗡️
+</h3>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-🌟Mythic%20Immortal🌟-%23FF4654?style=for-the-badge&logo=googleplay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Fighter-%23FFB700?style=for-the-badge&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Assassin-%2300ADEF?style=for-the-badge&logo=riotgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite_Hero-Cici-%23FFD700?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Favorite_Hero-Ling-%2300ADEF?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
 ## Connect with me
 
 <!-- 🌟 SOCIAL & CONTACT BUTTONS -->
